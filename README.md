@@ -1,16 +1,43 @@
-### Hi there 👋
 
-<!--
-**emmanuelbuccheri/emmanuelbuccheri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=emmanuelbuccheri&color=006bed)
 
-Here are some ideas to get you started:
+<h3> 👨‍🦱 &nbsp;Sobre mim </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 &nbsp; A curiosidade e a vontade de aprender mais me motivam a crescer como profissional de TI.
+- 🎓 &nbsp; Estudando **Análise e Densenvolvimento de Sistemas** no <a href="https://loja.anhembionline.com.br/graduacao/analise-e-desenvolvimento-de-sistemas-tecnologia-ead?gclid=Cj0KCQiAsqOMBhDFARIsAFBTN3eG7HzDkZlWQz8Pr6s-K5miuzO7Rif-okXVQP-gOanI7zQlt8c6dGsaAkYbEALw_wcB">Anhembi Morumbi</a>.
+- 💼 &nbsp; Procurando meu primeiro emprego na área de **QA, Testes de Software, Automação de testes**
+- 🌱 &nbsp; Aprendendo mais sobre **QA, Testes de Software, Java**.
+
+<h3> :rocket: &nbsp;Minhas Skills </h3>
+
+**Linguagens e Ferramentas:**
+  
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/intellij/intellij-original.svg"></code>
+  <code><img height="30" src="https://cms-react-testing.cdn.prismic.io/cms-react-testing/fd794b96-f464-432b-b79a-bf99341b2143_insomnia-logo-bug.svg"></code>
+  <code><img height="30" src="https://robotframework.org/img/RF.svg"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg"></code>
+
+  
+**Utilidades**
+ 
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/photoshop/photoshop-line.svg"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/canva/canva-original.svg"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/figma/figma-original.svg"></code>
+
+<br/>
+
+<a href="https://github.com/emmanuelbuccheri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emmanuelbuccheri&theme=dracula&show_icons=true" />
+</a>
+
+<br/>
+
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin: Emmanuel Buccheri](https://img.shields.io/badge/-emmanuelbuccheri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emmanuelbuccheri/)](https://www.linkedin.com/in/emmanuelbuccheri/)
+[![Gmail Badge](https://img.shields.io/badge/-emma1909@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emma1909@gmail.com)](mailto:emma1909@gmail.com)
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/emmanuelbuccheri?label=follow&style=social)](https://github.com/emmanuelbuccheri/)
